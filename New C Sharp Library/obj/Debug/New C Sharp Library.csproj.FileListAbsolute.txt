@@ -1,0 +1,6 @@
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\New C Sharp Library\bin\Debug\New C Sharp Library.exe.config
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\New C Sharp Library\bin\Debug\New C Sharp Library.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\New C Sharp Library\bin\Debug\New C Sharp Library.pdb
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\New C Sharp Library\obj\Debug\New C Sharp Library.csprojResolveAssemblyReference.cache
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\New C Sharp Library\obj\Debug\New C Sharp Library.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\New C Sharp Library\obj\Debug\New C Sharp Library.pdb

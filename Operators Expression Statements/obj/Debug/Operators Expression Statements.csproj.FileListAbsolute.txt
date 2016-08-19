@@ -1,0 +1,6 @@
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\Operators Expression Statements\bin\Debug\Operators Expression Statements.exe.config
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\Operators Expression Statements\bin\Debug\Operators Expression Statements.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\Operators Expression Statements\bin\Debug\Operators Expression Statements.pdb
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\Operators Expression Statements\obj\Debug\Operators Expression Statements.csprojResolveAssemblyReference.cache
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\Operators Expression Statements\obj\Debug\Operators Expression Statements.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\New C Sharp Library\Operators Expression Statements\obj\Debug\Operators Expression Statements.pdb
