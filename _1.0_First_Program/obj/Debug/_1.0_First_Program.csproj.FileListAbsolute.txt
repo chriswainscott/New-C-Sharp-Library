@@ -1,0 +1,6 @@
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_1.0_First_Program\bin\Debug\_1.0_First_Program.exe.config
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_1.0_First_Program\bin\Debug\_1.0_First_Program.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_1.0_First_Program\bin\Debug\_1.0_First_Program.pdb
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_1.0_First_Program\obj\Debug\_1.0_First_Program.csprojResolveAssemblyReference.cache
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_1.0_First_Program\obj\Debug\_1.0_First_Program.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_1.0_First_Program\obj\Debug\_1.0_First_Program.pdb

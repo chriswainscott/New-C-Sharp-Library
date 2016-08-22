@@ -1,0 +1,5 @@
+C:\C# Examples\2.0 Creating Your First C Sharp Program\2.0 Creating Your First C Sharp Program\bin\Debug\2.0 Creating Your First C Sharp Program.exe.config
+C:\C# Examples\2.0 Creating Your First C Sharp Program\2.0 Creating Your First C Sharp Program\bin\Debug\2.0 Creating Your First C Sharp Program.exe
+C:\C# Examples\2.0 Creating Your First C Sharp Program\2.0 Creating Your First C Sharp Program\bin\Debug\2.0 Creating Your First C Sharp Program.pdb
+C:\C# Examples\2.0 Creating Your First C Sharp Program\2.0 Creating Your First C Sharp Program\obj\Debug\2.0 Creating Your First C Sharp Program.exe
+C:\C# Examples\2.0 Creating Your First C Sharp Program\2.0 Creating Your First C Sharp Program\obj\Debug\2.0 Creating Your First C Sharp Program.pdb

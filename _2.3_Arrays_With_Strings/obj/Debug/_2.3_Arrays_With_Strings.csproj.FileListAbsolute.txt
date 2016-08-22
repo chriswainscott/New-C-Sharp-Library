@@ -1,0 +1,5 @@
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_2.3_Arrays_With_Strings\bin\Debug\_2.3_Arrays_With_Strings.exe.config
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_2.3_Arrays_With_Strings\bin\Debug\_2.3_Arrays_With_Strings.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_2.3_Arrays_With_Strings\bin\Debug\_2.3_Arrays_With_Strings.pdb
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_2.3_Arrays_With_Strings\obj\Debug\_2.3_Arrays_With_Strings.exe
+C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\CSharpLibrary\_2.3_Arrays_With_Strings\obj\Debug\_2.3_Arrays_With_Strings.pdb

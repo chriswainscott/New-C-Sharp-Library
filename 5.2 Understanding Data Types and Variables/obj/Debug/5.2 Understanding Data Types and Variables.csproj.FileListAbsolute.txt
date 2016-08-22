@@ -1,0 +1,8 @@
+C:\C# Examples\5.2 Understanding Data Types and Variables\5.2 Understanding Data Types and Variables\bin\Debug\5.2 Understanding Data Types and Variables.exe.config
+C:\C# Examples\5.2 Understanding Data Types and Variables\5.2 Understanding Data Types and Variables\bin\Debug\5.2 Understanding Data Types and Variables.exe
+C:\C# Examples\5.2 Understanding Data Types and Variables\5.2 Understanding Data Types and Variables\bin\Debug\5.2 Understanding Data Types and Variables.pdb
+C:\C# Examples\5.2 Understanding Data Types and Variables\5.2 Understanding Data Types and Variables\obj\Debug\5.2 Understanding Data Types and Variables.exe
+C:\C# Examples\5.2 Understanding Data Types and Variables\5.2 Understanding Data Types and Variables\obj\Debug\5.2 Understanding Data Types and Variables.pdb
+C:\C# Examples\5.2 Understanding Data Types and Variables\bin\Debug\5.2 Understanding Data Types and Variables.exe.config
+C:\C# Examples\5.2 Understanding Data Types and Variables\obj\Debug\5.2 Understanding Data Types and Variables.exe
+C:\C# Examples\5.2 Understanding Data Types and Variables\obj\Debug\5.2 Understanding Data Types and Variables.pdb
